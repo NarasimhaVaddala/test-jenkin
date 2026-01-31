@@ -1,0 +1,25 @@
+{
+  "name": "test-jenkin",
+  "version": "1.0.0",
+  "description": "This is for jenkins learningn",
+  "main": "script.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarasimhaVaddala/test-jenkin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NarasimhaVaddala/test-jenkin/issues"
+  },
+  "homepage": "https://github.com/NarasimhaVaddala/test-jenkin#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
